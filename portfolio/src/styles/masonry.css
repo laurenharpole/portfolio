@@ -321,7 +321,7 @@ a.read-more {
 
   h1.title {
     text-shadow: none;
-    font-size: 32px;
+    font-size: 28px;
   }
 
   /* styling for the card container */
@@ -340,7 +340,7 @@ a.read-more {
     width: 360px;
     margin: 0 auto;
     margin-top: 0px;
-    padding-top: 20px;
+    padding-top: 28px;
   }
 
   .hello-statement h1{
@@ -360,7 +360,7 @@ a.read-more {
   /* label styling */
   span.Design-Marker {
     border-radius: 55px;
-    padding-left: 38px;
+    padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
     box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
@@ -370,7 +370,7 @@ a.read-more {
   /* label styling */
   span.Dev-Marker {
     border-radius: 55px;
-    padding-left: 38px;
+    padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
     box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
@@ -386,13 +386,13 @@ a.read-more {
 
   h1.title {
     text-shadow: none;
-    font-size: 32px;
+    font-size: 28px;
   }
 
   /* label styling */
   span.Design-Marker {
     border-radius: 55px;
-    padding-left: 38px;
+    padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
     box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
@@ -402,7 +402,7 @@ a.read-more {
   /* label styling */
   span.Dev-Marker {
     border-radius: 55px;
-    padding-left: 38px;
+    padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
     box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
@@ -419,7 +419,7 @@ a.read-more {
     width: 325px;
     margin: 0 auto;
     margin-top: 0px;
-    padding-top:20px;
+    padding-top:28px;
   }
   
   /* styling for the card container */
@@ -484,7 +484,7 @@ a.read-more {
     width: 280px;
     /* margin-top: 80px; */
     margin: 0 auto;
-    padding-top:20px;
+    padding-top:28px;
   }
 
   /* styling for the card container */
