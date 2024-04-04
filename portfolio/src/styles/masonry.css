@@ -85,6 +85,12 @@ h1.title {
   padding-top: 120px;
 }
 
+.title-div-work {
+  width: 700px;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 70px;
+}
 img.emoji-title{
   width:30px;
   margin-bottom:-3px;
@@ -299,14 +305,23 @@ a.read-more {
   .title-div {
     width: 450px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 30px;
   }
+
+  .title-div-work {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-top: 20px;;
+  }
+  
+
 }
 @media screen and (max-width: 637px) and (min-width: 410px) {
 
   h1.title {
     text-shadow: none;
-    font-size: 45px;
+    font-size: 32px;
   }
 
   /* styling for the card container */
@@ -318,7 +333,14 @@ a.read-more {
   .title-div {
     width: 360px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 0px;
+  }
+
+  .title-div-work {
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 0px;
+    padding-top: 20px;
   }
 
   .hello-statement h1{
@@ -334,7 +356,26 @@ a.read-more {
     font-size: 18px;
     /* line-height: 1.65; */
   }
+  
+  /* label styling */
+  span.Design-Marker {
+    border-radius: 55px;
+    padding-left: 38px;
+    color: var(--white);
+    background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
+    box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
+    margin-right:12px;
+  }
 
+  /* label styling */
+  span.Dev-Marker {
+    border-radius: 55px;
+    padding-left: 38px;
+    color: var(--white);
+    background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
+    box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
+    margin-right:12px;
+  }
   /* .title-div-design {
     padding-top: 35%;
   } */
@@ -345,15 +386,41 @@ a.read-more {
 
   h1.title {
     text-shadow: none;
-    font-size: 40px;
+    font-size: 32px;
+  }
+
+  /* label styling */
+  span.Design-Marker {
+    border-radius: 55px;
+    padding-left: 38px;
+    color: var(--white);
+    background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
+    box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
+    margin-right:12px;
+  }
+
+  /* label styling */
+  span.Dev-Marker {
+    border-radius: 55px;
+    padding-left: 38px;
+    color: var(--white);
+    background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
+    box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
+    margin-right:12px;
   }
 
   .title-div {
     width: 325px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 0px;
   }
 
+  .title-div-work {
+    width: 325px;
+    margin: 0 auto;
+    margin-top: 0px;
+    padding-top:20px;
+  }
   
   /* styling for the card container */
   .card_container {
@@ -411,6 +478,13 @@ a.read-more {
     width: 280px;
     /* margin-top: 80px; */
     margin: 0 auto;
+  }
+
+  .title-div-work {
+    width: 280px;
+    /* margin-top: 80px; */
+    margin: 0 auto;
+    padding-top:20px;
   }
 
   /* styling for the card container */

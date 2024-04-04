@@ -15,7 +15,7 @@ function MasonryDesign() {
   return (
     
     <div className="MasonryDesign">
-      <div class="title-div">
+      <div class="title-div-work">
       {/* <p className="span-pos"><span className="Design">○</span></p> */}
         <h1 className="title"><span className="Design-Marker"></span> Design </h1>
       </div>

@@ -42,12 +42,12 @@ function App() {
         */}
         <div className="nav-links">
           <Router>
-            <Link to="/"><p>Home </p></Link>
+            <Link to="/portfolio"><p>Home </p></Link>
             <Link to="/design"><p>Design</p></Link>
             <Link to="/dev"><p>Development</p></Link>
             <Link to="/about"><p>About</p></Link>
             <Routes>
-              <Route exact path="/" element={<Home />}>
+              <Route exact path="/portfolio" element={<Home />}>
                 
               </Route>
               <Route exact path="/dev" element={<Dev />}>

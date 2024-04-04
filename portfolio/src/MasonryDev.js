@@ -13,7 +13,7 @@ function MasonryDev() {
 
   return (
     <div className="MasonryDev">
-      <div class="title-div">
+      <div class="title-div-work">
         <h1 className="title"><span className="Dev-Marker"></span> Development</h1>
       </div>
       
