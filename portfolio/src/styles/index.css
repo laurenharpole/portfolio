@@ -1,0 +1,55 @@
+body, .App {
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  /* #fafafa;; */
+  /* fcfbfc; */
+  /* rgb(250, 250, 250);; */
+}
+
+
+
+:root {
+  --dark-grey:  #2e2e2e;
+  --light-grey:  #949496;
+  --tertiary:  #1d95d1;
+  --imessageblue:#0077fe;
+  --imessagegrey: #e9eae9;
+  --white: #ffffff;
+  --background-color:#f6f6f8;
+  --card-color:#fdfdfd;
+}
+
+/* p, h1, span, figcaption { */
+  /* font-family: "Segoe UI", sans-serif; */
+  /* font-family: "Poppins", sans-serif; */
+/* } */
+
+h1,h4, h2 {
+  font-family: "Segoe UI", sans-serif;
+  /* font-family: "Fraunces", sans-serif; */
+}
+
+/* h4, h2{
+  font-family: "Poppins", sans-serif;
+ 
+} */
+
+p, span, figcaption {
+  font-family: "Segoe UI", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+
+  /* font-family: "Fraunces", sans-serif; */
+}
+
+button {
+  font-family: "Segoe UI", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
