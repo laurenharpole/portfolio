@@ -353,7 +353,7 @@ a.read-more {
   /* label styling */
   span.Design-Marker {
     border-radius: 65px;
-    padding-left: 27px;
+    padding-left: 26px;
     color: var(--white);
     background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
     box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
@@ -363,7 +363,7 @@ a.read-more {
   /* label styling */
   span.Dev-Marker {
     border-radius: 65px;
-    padding-left: 27px;
+    padding-left: 26px;
     color: var(--white);
     background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
     box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
