@@ -122,26 +122,34 @@ function Fridgeshot() {
               <h2 className="body-text-title">Solution
               </h2>
               <p className="body-text">
+                <div className="yours messages">
+                  <div className="message last">I get my groceries from Walmart</div>
+                </div>
               </p>
-              <div className="yours messages">
-                <div className="message last">I get my groceries from Walmart</div>
-              </div>
+              <p className="body-text">
               <div className="mine messages">
                 <div className="message last">
                   I like to optimize the yield when I cook, reusing ingredients
                 </div>
               </div>
-              <div className="yours messages">
-                <div className="message last">I cook 4-5 times a week</div>
-              </div>
-              <div className="mine messages">
-                <div className="message last">
-                  I buy 1-2 vegetables each trip to avoid waste
+              </p>
+              <p className="body-text">
+                <div className="yours messages">
+                  <div className="message last">I cook 4-5 times a week</div>
                 </div>
-              </div>
-              <div className="yours messages">
-                <div className="message last"> I cook based on my oldest ingredient</div>
-              </div>
+              </p>
+              <p className="body-text">
+                <div className="mine messages">
+                  <div className="message last">
+                    I buy 1-2 vegetables each trip to avoid waste
+                  </div>
+                </div>
+              </p>
+              <p className="body-text">
+                <div className="yours messages">
+                  <div className="message last"> I cook based on my oldest ingredient</div>
+                </div>
+              </p>
               <p className="body-text">From our interviews, we found our core needs. With them in mind, and based on our insights, we came up with a persona to serve as a cumulative representation of all the common user needs, goals, tasks from user interviews.</p>
               <h2 className="body-text-title-segment">Needs</h2>
               <div class="list">
@@ -383,11 +391,7 @@ function Fridgeshot() {
             </div>
           </div>
         </div>
-
-
       </div>
-
-
 
 
       <Footer />

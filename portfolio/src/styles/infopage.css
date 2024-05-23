@@ -213,8 +213,7 @@ h2.body-text-title {
     font-weight: 600;
     line-height: 28px;
     margin-block-start: 69.08000183105469px;
-    margin-block-end: -8.140000343322754px;
-    margin-bottom: -29px;
+    margin-bottom: -24px;
     text-align: left;
     margin-top: 47.400001525878906px;
     word-break: break-word;
@@ -514,7 +513,11 @@ img.work-col-gif-laptop {
         margin-left: 0px;
         margin: 0 auto;
         margin-top: 50px;
-        
+    }
+
+    /* work title styling */
+    h2.body-text-title {
+        margin-bottom: -15px;
     }
 
     /* work image styling */
@@ -555,6 +558,7 @@ img.work-col-gif-laptop {
         margin-top: 19.20px;
     }
 
+    
     p.span-pos2 {
         margin: 0px;
         margin-top: 80px;
@@ -584,6 +588,11 @@ img.work-col-gif-laptop {
         width: 89vw;
         height: auto;
         border-radius: 12px;
+    }
+
+    /* work title styling */
+    h2.body-text-title {
+        margin-bottom: -15px;
     }
 
     .work-title-div {
@@ -635,4 +644,10 @@ img.work-col-gif-laptop {
     img.work-col-gif-laptop {
         width: 280px;
     }
+
+    /* work title styling */
+    h2.body-text-title {
+        margin-bottom: -15px;
+    }
+
 }
