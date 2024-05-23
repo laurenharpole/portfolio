@@ -190,7 +190,6 @@ p.body-text {
     display: block;
     font-style: normal;
     line-height: 28px;
-    margin-top: 17.200000762939453px;
     text-rendering: optimizeLegibility;
     margin-block-end: -9.199999px;
     margin-block-start: 40px;
@@ -212,8 +211,8 @@ h2.body-text-title {
     font-style: normal;
     font-weight: 600;
     line-height: 28px;
-    margin-block-start: 69.08000183105469px;
-    margin-bottom: -24px;
+    /* margin-block-start: 69.08000183105469px; */
+    /* margin-bottom: -24px; */
     text-align: left;
     margin-top: 47.400001525878906px;
     word-break: break-word;
