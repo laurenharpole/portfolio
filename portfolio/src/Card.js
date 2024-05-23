@@ -1,9 +1,6 @@
 import './styles/masonry.css';
-import nasdaq from './dev_files/nasdaq.JPG';
-// import fridgeshot from './design_files/fridgeshot.jpg';
-// import datavis from './design_files/data.jpg';
+
 import {
-    BrowserRouter as Router,
     Link,
   } from "react-router-dom";
 
@@ -19,7 +16,6 @@ function Card(props) {
                 <h4 >{props.title}</h4>
                 <p className="paragraph">{props.desc}</p>
                 {/* <a className="read-more">Read more ➔</a> */}
-
               </div>
             </Link>
         </div>

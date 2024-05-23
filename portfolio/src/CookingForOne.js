@@ -1,15 +1,11 @@
 import Footer from './Footer.js';
 import './styles/infopage.css';
-//import MasonryDev from './MasonryDev.js';
-//import './footer.css';
-//CookingForOne
 import initial_sketch from './design_files/cookingforone/sketch_initial.pdf';
 import initial_mockup from './design_files/cookingforone/mockup.jpg';
 import cooking from './design_files/cookingforone/header-img.png';
 
 import final_mockup from './design_files/cookingforone/Flow-of-app.jpg';
 import affinity from './design_files/cookingforone/Final Project Affinity Diagram.pdf';
-// import persona from './design_files/fridgeshot/persona.png';
 import explore from './design_files/cookingforone/explore.png';
 import filter from './design_files/cookingforone/filter.gif';
 import fav from './design_files/cookingforone/fav.gif';
@@ -100,14 +96,6 @@ function CookingForOne() {
                 </div>
               </div>
 
-              {/* <div class="list">
-                <div class="item">
-                    <span class="number-cell"><span class="grey-circle">1</span></span>
-                    <span class="list-text"></span>
-                </div>
-              </div>
-               */}
-
               <h2 className="body-text-title-segment">Core Needs</h2>
               <p className="body-text">Then from our affinity diagram, and primary insights, we found our core requirements. With them in mind and based on our insights, we came up with a persona to serve as a cumulative representation of all the common user needs goals and tasks from our interviews. </p>
 
@@ -179,23 +167,6 @@ function CookingForOne() {
               <h2 className="body-text-title-segment">Testing</h2>
               <p className="body-text">After developing our prototype, we conducted usability tests to assess the user experience of our product using the scenarios mentioned above. With our testing, we discovered the following issues:  </p>
 
-              {/* <div class="list">
-                <div class="item">
-                    <span class="number-cell"><span class="grey-circle">1</span></span>
-                    <span class="list-text"></span>
-                </div>
-                <div class="item">
-                    <span class="number-cell"><span class="grey-circle">2</span></span>
-                    <span class="list-text"></span>
-                </div>
-                <div class="item">
-                    <span class="number-cell"><span class="grey-circle">3</span></span>
-                    <span class="list-text"></span>                </div>
-                <div class="item">
-                    <span class="number-cell"><span class="grey-circle">4</span></span>
-                    <span class="list-text"></span>                </div>
-              </div> */}
-
               <div class="list">
                 <div class="item">
                   <span class="number-cell"><span class="grey-circle">1</span></span>
@@ -224,12 +195,6 @@ function CookingForOne() {
             </div>
           </div>
         </div>
-        {/* <div class="work-title-div-row">
-          <div class="work-title-div-col">
-            <div class="work-title-div-col-segment-challenge">
-            </div>
-          </div>
-        </div> */}
         <div class="work-title-div-row">
           <div class="work-title-div-col">
             <div class="work-title-div-col-segment-challenge">
@@ -313,10 +278,6 @@ function CookingForOne() {
 
         <h2 className="body-text-title">Reflection</h2>
         <p className="body-text">Working on this project gave me further practice in the user-centered design process specifically regarding effective translations of user-identified pain points into functional solutions. I was able to put my user interface design skills to use by taking what we learned in our initial user interviews and applying it to the creation and structuring of our initial interface and mock ups. <br></br><br></br>I also played a part in brainstorming solutions to issues raised during user testing. In addition, I practiced my technical skills by implementing our filtering functionality, dynamically loading recipe pages, and the full styling of our recipe cards and grid. </p>
-
-        {/* </div>
-          </div> */}
-        {/* </div> */}
       </div>
       <Footer />
     </div>

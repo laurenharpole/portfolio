@@ -6,7 +6,7 @@ import Dev from './Dev.js';
 import Design from './Design.js';
 import About from './About.js';
 import logo from './other_files/LH.svg';
-import Nasdaq from './Nasdaq.js';
+import POC from './Poc.js';
 import MindSpire from './MindSpire.js';
 import Garden from './Garden.js';
 import FridgeShot from './FridgeShot.js';
@@ -52,7 +52,7 @@ function App() {
               <Route exact path="/dev" element={<Dev />}></Route>
               <Route exact path="/design" element={<Design />}></Route>
               <Route exact path="/about" element={ <About />}></Route>
-              <Route exact path="/nasdaq" element={<Nasdaq />}></Route>
+              <Route exact path="/poc" element={<POC />}></Route>
               <Route exact path="/datavis" element={<MindSpire />}></Route>
               <Route exact path="/garden" element={<Garden />}></Route>
               <Route exact path="/fridgeshot" element={<FridgeShot />}></Route>
