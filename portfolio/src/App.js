@@ -16,7 +16,7 @@ import Sweeper from './Sweeper.js';
 import ChemE from './ChemE.js';
 import Covid from './CovidVis.js';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Link,
@@ -47,38 +47,20 @@ function App() {
             <Link to="/dev"><p>Development</p></Link>
             <Link to="/about"><p>About</p></Link>
             <Routes>
-              <Route exact path="/portfolio" element={<Home />}>
-                
-              </Route>
-              <Route exact path="/dev" element={<Dev />}>
-                
-              </Route>
-              <Route exact path="/design" element={<Design />}>
-               
-              </Route>
-              <Route exact path="/about" element={ <About />}>
-               
-              </Route>
-              <Route exact path="/nasdaq" element={<Nasdaq />}>
-         
-              </Route>
-              <Route exact path="/datavis" element={<MindSpire />}>
-              </Route>
-              <Route exact path="/garden" element={<Garden />}>
-              </Route>
-              <Route exact path="/fridgeshot" element={<FridgeShot />}>
-                {/* <CookingForOne/> */}
-              </Route>
-              <Route exact path="/cookingforone" element={ <CookingForOne />}>
-              </Route>
-              <Route exact path="/cordillera" element={<Cordillera />}>
-              </Route>
-              <Route exact path="/sweeper" element={<Sweeper />}>
-              </Route>
-              <Route exact path="/cheme" element={<ChemE />}>
-              </Route>
+              <Route exact path="/" element={<Home />}></Route>
+              <Route exact path="/portfolio" element={<Home />}></Route>
+              <Route exact path="/dev" element={<Dev />}></Route>
+              <Route exact path="/design" element={<Design />}></Route>
+              <Route exact path="/about" element={ <About />}></Route>
+              <Route exact path="/nasdaq" element={<Nasdaq />}></Route>
+              <Route exact path="/datavis" element={<MindSpire />}></Route>
+              <Route exact path="/garden" element={<Garden />}></Route>
+              <Route exact path="/fridgeshot" element={<FridgeShot />}></Route>
+              <Route exact path="/cookingforone" element={ <CookingForOne />}></Route>
+              <Route exact path="/cordillera" element={<Cordillera />}></Route>
+              <Route exact path="/sweeper" element={<Sweeper />}></Route>
+              <Route exact path="/cheme" element={<ChemE />}></Route>
               <Route exact path="/covid" element={<Covid />}>
-
               </Route>
 
             </Routes>
