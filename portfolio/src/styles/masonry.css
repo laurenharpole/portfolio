@@ -359,7 +359,7 @@ a.read-more {
   
   /* label styling */
   span.Design-Marker {
-    border-radius: 65px;
+    border-radius: 55px;
     padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
@@ -369,7 +369,7 @@ a.read-more {
 
   /* label styling */
   span.Dev-Marker {
-    border-radius: 65px;
+    border-radius: 55px;
     padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
@@ -391,7 +391,7 @@ a.read-more {
 
   /* label styling */
   span.Design-Marker {
-    border-radius: 65px;
+    border-radius: 55px;
     padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, #ff5c5f 0%, #ff9d42 100%);
@@ -401,7 +401,7 @@ a.read-more {
 
   /* label styling */
   span.Dev-Marker {
-    border-radius: 65px;
+    border-radius: 55px;
     padding-left: 34px;
     color: var(--white);
     background: linear-gradient(107deg, rgb(7, 150, 86, 1) 0%, rgb(8, 195, 111) 100%);
