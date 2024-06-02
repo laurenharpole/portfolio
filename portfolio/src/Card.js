@@ -15,7 +15,6 @@ function Card(props) {
                 <p className="span-pos"><span className={props.label}>{props.label}</span></p>
                 <h4 >{props.title}</h4>
                 <p className="paragraph">{props.desc}</p>
-                {/* <a className="read-more">Read more ➔</a> */}
               </div>
             </Link>
         </div>

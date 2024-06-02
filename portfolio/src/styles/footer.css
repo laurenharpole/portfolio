@@ -48,44 +48,26 @@ img.emoji-3d-links{
   border-radius: 29px;
   padding: 5px 20px;
   text-align: left;
-  /* margin-top: 7px;
-  margin-bottom: 0px;
-  margin-right: 1px; */
   display: inline-block;
   font-weight: normal;
   background: var(--imessageblue);
-  /* background: rgb(26, 83, 255); */
 }
 
 /* gray messages  */
 .yours {
   align-items: flex-start;
-  /* margin-bottom: 20px; */
 }
 
 /* gray messages  */
 .yours .message {
-  /* opacity: 0.95; */
-  /* color: #7f868e; */
   color: #353838;
-  
-  /* text-shadow: 2px 3px 14px rgb(43, 46, 63,0.4); */
-  /* padding-left: 15px; */
-  /* margin-top: 20px; */
-  /* padding-left:0px; */
   max-width:261px;
   position: relative;
   background: var(--imessagegrey);
-  /* #e6e6e6; */
   box-shadow:  6px 6px 18px #d6d6d6,
                -3px -6px 44px rgb(255, 255, 255, 0.5);
 }
-/* 
-.Footer {
- background-image: url('/src/wave.svg');
- background-repeat: no-repeat;
- background-position: bottom;
-} */
+
 
 /* gray messages  */
 .yours .message.last:before {
@@ -136,7 +118,6 @@ img.emoji-3d-links{
 /* blue messages  */
 
 .mine .message {
-  /* letter-spacing: 0.05em; */
   opacity: 1;
   color: #dee2e6;
   text-shadow: -1px 2px 8px rgb(255, 255, 255, 0.25);

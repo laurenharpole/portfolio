@@ -18,7 +18,6 @@ function CovidVis() {
         </figure>
         <p className="body-text"> An interactive client-side data visualization made using  the graphing and visualization library D3.js illustrating a breakdown in covid-19 worldwide data from May, 2021. The data comes from Johns Hopkins and the bubble radii are sized based on country population. Below is a link to a github site displaying the chart on my personal page.</p>
         <p className="body-text"><a href="https://laurenharpole.github.io/May-Vaccine-Progress-Vis/"><LaunchButton/></a></p>
-
       </div>
       <Footer />
     </div>

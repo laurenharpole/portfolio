@@ -1,4 +1,4 @@
-//import logo from './logo.svg';
+
 import './styles/App.css';
 import './styles/masonry.css';
 import Home from './Home.js';
@@ -30,16 +30,6 @@ function App() {
         <div className="nav-header">
           <img src={logo} alt="logo" className="title" />
         </div>
-        {/* <div className="nav-btn">
-          <label for="nav-check">
-            <span></span>
-            <span></span>
-            <span></span>
-          </label>
-        </div> 
-         <Link to="/design"><p><span class="ed">Design</span></p></Link>
-            <Link to="/dev"><p><span className="prog">Development</span></p></Link>
-        */}
         <div className="nav-links">
           <Router>
             <Link to="/portfolio"><p>Home </p></Link>
@@ -62,14 +52,10 @@ function App() {
               <Route exact path="/cheme" element={<ChemE />}></Route>
               <Route exact path="/covid" element={<Covid />}>
               </Route>
-
             </Routes>
           </Router>
-
         </div>
-
       </div>
-      
     </div>
   );
 }

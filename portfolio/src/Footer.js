@@ -38,13 +38,10 @@ function Footer() {
       <p className="stamp">Today, <span id="info"> {getDate()}</span></p>
 
       <div className="chat">
-        {/* get the user's time stamp and display information text header  */}
-
         <div className="mine messages">
           <p className="message"><img class="emoji-3d-links" src={up}></img>
             &nbsp;<a className="back2Top" id="back2Top" title="Back to top" href="#">back up</a>
           </p>
-          {/* <div className="message">👩‍💼&nbsp;Here's my additional info</div> */}
           <div className="message last">
             <ul className="f-three-column">
               <li className="last">
@@ -65,10 +62,7 @@ function Footer() {
             Built with <img class="emoji-3d" src={heart}></img> by Lauren Harpole © 2024
           </p>
           </p>
-          
-           {/* <span id="Threed-emoji">gg</span>♥️  */}
         </div>
-       
       </div>
     </div>
   )

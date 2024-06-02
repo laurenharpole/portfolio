@@ -35,7 +35,6 @@ img.header-img {
     display: block;
     border: none;
     margin: 0 auto;
-    /* margin-left: 20px; */
 }
 
 
@@ -121,24 +120,7 @@ span.design2 {
     background: linear-gradient(107deg, rgba(255,92,95,1) 0%, #ff9d42 100%);
     box-shadow: 1px 0px 11px rgb(255, 101, 99, 0.6);
   }
-/* span.design2 {
-    border-radius: 5px;
-    padding: 2px;
-    color: white;
-    font-size: 12px;
-    background-color: #079656;
-    box-shadow: 1px 0px 11px rgb(1, 185, 31, 0.6);
-} */
 
-/* blue dev label */
-/* span.dev2 {
-    border-radius: 5px;
-    padding: 2px;
-    color: white;
-    font-size: 12px;
-    background-color: #4a79ff;
-    box-shadow: 1px 0px 11px rgb(74, 121, 255);
-} */
 span.dev2 {
     border-radius: 5px;
     padding: 2px;
@@ -166,7 +148,6 @@ p.subtitle {
     line-height: 28px;
     text-rendering: optimizeLegibility;
     color: var(--light-grey);
-    /* #3030309a; */
     opacity: 0.85;
     letter-spacing: 0.01em;
     margin: 15px;
@@ -197,9 +178,7 @@ p.body-text {
     letter-spacing: -0.06px;
     word-break: break-word;
     word-wrap: break-word;
-    /* color: #2b2e3f; */
     color: var(--dark-grey);
-    /* #303030dd; */
     font-weight: 400;
     text-shadow: none;
 }
@@ -211,8 +190,6 @@ h2.body-text-title {
     font-style: normal;
     font-weight: 600;
     line-height: 28px;
-    /* margin-block-start: 69.08000183105469px; */
-    /* margin-bottom: -24px; */
     text-align: left;
     margin-top: 47.400001525878906px;
     word-break: break-word;
@@ -258,7 +235,6 @@ h2.body-text-title-segment {
     word-wrap: break-word;
     letter-spacing: 0.01em;
     color: var(--dark-grey);
-    /* #303030dd; */
     text-shadow: none;
 }
 
@@ -372,8 +348,6 @@ h2.body-text-title-gifs {
     letter-spacing: 0.01em;
     line-break: normal;
     color: var(--dark-grey);
-    /* #303030dd; */
-    /* color: #303030; */
     text-shadow: none;
     margin-bottom: -10px;
     margin-top: 125px;
@@ -390,7 +364,6 @@ p.body-text-gif {
     word-break: break-word;
     word-wrap: break-word;
     color: var(--dark-grey);
-    /* #303030dd; */
     font-weight: 400;
     text-shadow: none;
 }

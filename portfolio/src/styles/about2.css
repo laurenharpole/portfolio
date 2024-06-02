@@ -19,14 +19,6 @@ img.in-modal {
 }
 
 
-/* body {
-    background-image: url('/src/other_files/aboutsvg.svg');
-    background-position: top;;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-blend-mode: overlay;
-
-} */
 /* big header title words */
 h1.about-title {
     display: block;
@@ -71,7 +63,6 @@ p.about-text {
     color: #3030309a;
     font-weight: 450;
     text-shadow: none;
-    /* cursor:none; */
 }
 
 

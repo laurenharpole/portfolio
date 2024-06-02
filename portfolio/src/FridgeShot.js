@@ -1,7 +1,6 @@
 
 import './styles/infopage.css';
 import './styles/footer.css';
-//import './styles/test.css';
 import fridgeshot from './design_files/fridgeshot/fridgetop.jpg';
 import affinity from './design_files/fridgeshot/affinity.jpg';
 import persona from './design_files/fridgeshot/persona.jpg';
@@ -12,11 +11,8 @@ import fav from './design_files/fridgeshot/fav.gif';
 import recipe from './design_files/fridgeshot/recipe.gif';
 import recipes from './design_files/fridgeshot/recipes.gif';
 import account from './design_files/fridgeshot/account.gif';
-
 import Footer from './Footer.js';
 
-//import MasonryDev from './MasonryDev.js';
-//import './footer.css';
 function Fridgeshot() {
 
   return (
@@ -57,12 +53,6 @@ function Fridgeshot() {
               <p className="body-text">12 weeks
               </p>
             </div>
-            {/* <div class="work-title-div-col-segment">
-                    <h2 className="body-text-title-segment">TOOLS
-                    </h2>
-                    <p className="body-text">Figma, Vue.js, Heroku
-                    </p>
-                  </div> */}
             <div class="work-title-div-col-segment">
               <h2 className="body-text-title-segment">Roles
               </h2>

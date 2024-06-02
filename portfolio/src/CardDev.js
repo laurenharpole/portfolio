@@ -1,7 +1,4 @@
 import './styles/masonry.css';
-import nasdaq from './dev_files/nasdaq.JPG';
-// import fridgeshot from './design_files/fridgeshot.jpg';
-// import datavis from './design_files/data.jpg';
 import {
     BrowserRouter as Router,
     Link,
