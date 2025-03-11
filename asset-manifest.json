@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bdd5c2db.css",
-    "main.js": "/portfolio/static/js/main.3d7cfdfa.js",
+    "main.js": "/portfolio/static/js/main.5b913bff.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/sweeper2.mov": "/portfolio/static/media/sweeper2.6efab4dd8998f84fc714.mov",
     "static/media/Final Project Affinity Diagram.pdf": "/portfolio/static/media/Final Project Affinity Diagram.8a654e8ee3dbeed41fbe.pdf",
@@ -38,7 +38,7 @@
     "static/media/science.jpg": "/portfolio/static/media/science.8dd47d11c34d1ddfb260.jpg",
     "static/media/sweeper.jpg": "/portfolio/static/media/sweeper.70dd713f9c83e1c992c5.jpg",
     "static/media/PointUpFace.png": "/portfolio/static/media/PointUpFace.abd20c0124393864b659.png",
-    "static/media/fridgeshot.jpg": "/portfolio/static/media/fridgeshot.f7c7a46d9bd01f56077d.jpg",
+    "static/media/fridgeshot.jpg": "/portfolio/static/media/fridgeshot.4cb1534f1c9498d7f5d9.jpg",
     "static/media/cordillera.jpg": "/portfolio/static/media/cordillera.aafbcf03ccdf6c9cd347.jpg",
     "static/media/cover.jpg": "/portfolio/static/media/cover.2b9261cf3582d219d948.jpg",
     "static/media/cheme.jpg": "/portfolio/static/media/cheme.5d6a06d2971021c3eb8a.jpg",
@@ -48,11 +48,11 @@
     "static/media/LH.svg": "/portfolio/static/media/LH.1d92293d677d1fbc33281dcc93077b5c.svg",
     "index.html": "/portfolio/index.html",
     "main.bdd5c2db.css.map": "/portfolio/static/css/main.bdd5c2db.css.map",
-    "main.3d7cfdfa.js.map": "/portfolio/static/js/main.3d7cfdfa.js.map",
+    "main.5b913bff.js.map": "/portfolio/static/js/main.5b913bff.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd5c2db.css",
-    "static/js/main.3d7cfdfa.js"
+    "static/js/main.5b913bff.js"
   ]
 }
