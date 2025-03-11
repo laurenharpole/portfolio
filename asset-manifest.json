@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3fd94a42.css",
-    "main.js": "/portfolio/static/js/main.2856164e.js",
+    "main.css": "/portfolio/static/css/main.bdd5c2db.css",
+    "main.js": "/portfolio/static/js/main.3d7cfdfa.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/sweeper2.mov": "/portfolio/static/media/sweeper2.6efab4dd8998f84fc714.mov",
     "static/media/Final Project Affinity Diagram.pdf": "/portfolio/static/media/Final Project Affinity Diagram.8a654e8ee3dbeed41fbe.pdf",
@@ -14,15 +14,17 @@
     "static/media/recipe.gif": "/portfolio/static/media/recipe.143abdc142743c95fa9b.gif",
     "static/media/history.gif": "/portfolio/static/media/history.70b2b8dc800ec75224fc.gif",
     "static/media/travel-front-color.png": "/portfolio/static/media/travel-front-color.9a20468b269b42bcdcee.png",
+    "static/media/covidtop.jpg": "/portfolio/static/media/covidtop.c025eda31823ad5e3d53.jpg",
     "static/media/account.gif": "/portfolio/static/media/account.e826cd3a0e3e95ca336f.gif",
+    "static/media/poc-ipad-login.png": "/portfolio/static/media/poc-ipad-login.f10f5bc22e81ce58b96b.png",
     "static/media/header-img.png": "/portfolio/static/media/header-img.69863eeab84f283f8c22.png",
     "static/media/Flow-of-app.jpg": "/portfolio/static/media/Flow-of-app.2664651fded78c79257d.jpg",
     "static/media/affinity.jpg": "/portfolio/static/media/affinity.b5bff64d281d0960e16a.jpg",
+    "static/media/poc-ipad-home.png": "/portfolio/static/media/poc-ipad-home.0fa3b3eb7c213f8fe5dd.png",
     "static/media/mockup.jpg": "/portfolio/static/media/mockup.5f84b04f0cdee63b0bf2.jpg",
     "static/media/math.jpg": "/portfolio/static/media/math.799ade829d1f8b9b0ac3.jpg",
     "static/media/data0.jpg": "/portfolio/static/media/data0.a342863bf2040a5cbf1e.jpg",
     "static/media/computer-front-premium.png": "/portfolio/static/media/computer-front-premium.561d3a6ae79b3b22f446.png",
-    "static/media/heart_front_color.png": "/portfolio/static/media/heart_front_color.44884a77c5f599e46f64.png",
     "static/media/rocket-dynamic-color.png": "/portfolio/static/media/rocket-dynamic-color.e2b677ca7cb52850541f.png",
     "static/media/blob2.JPG": "/portfolio/static/media/blob2.3b570290f06636d457d9.JPG",
     "static/media/poc.png": "/portfolio/static/media/poc.4ab7bb6f4c884ea7f193.png",
@@ -39,19 +41,18 @@
     "static/media/fridgeshot.jpg": "/portfolio/static/media/fridgeshot.f7c7a46d9bd01f56077d.jpg",
     "static/media/cordillera.jpg": "/portfolio/static/media/cordillera.aafbcf03ccdf6c9cd347.jpg",
     "static/media/cover.jpg": "/portfolio/static/media/cover.2b9261cf3582d219d948.jpg",
-    "static/media/covidtop.jpg": "/portfolio/static/media/covidtop.3c1011dff6baac75a94f.jpg",
     "static/media/cheme.jpg": "/portfolio/static/media/cheme.5d6a06d2971021c3eb8a.jpg",
     "static/media/data.jpg": "/portfolio/static/media/data.0862fcce5b8d2eb4eea2.jpg",
     "static/media/fridgetop.jpg": "/portfolio/static/media/fridgetop.da859f1b6cbe698baede.jpg",
     "static/media/garden.jpg": "/portfolio/static/media/garden.8eef78ecf9ae830504e1.jpg",
     "static/media/LH.svg": "/portfolio/static/media/LH.1d92293d677d1fbc33281dcc93077b5c.svg",
     "index.html": "/portfolio/index.html",
-    "main.3fd94a42.css.map": "/portfolio/static/css/main.3fd94a42.css.map",
-    "main.2856164e.js.map": "/portfolio/static/js/main.2856164e.js.map",
+    "main.bdd5c2db.css.map": "/portfolio/static/css/main.bdd5c2db.css.map",
+    "main.3d7cfdfa.js.map": "/portfolio/static/js/main.3d7cfdfa.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd94a42.css",
-    "static/js/main.2856164e.js"
+    "static/css/main.bdd5c2db.css",
+    "static/js/main.3d7cfdfa.js"
   ]
 }
