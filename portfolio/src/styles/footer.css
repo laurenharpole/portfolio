@@ -28,6 +28,10 @@ img.emoji-3d-links{
   margin: -2px;
 }
 
+#back2Top {
+  text-decoration: underline;
+}
+
 /* general messages section */
 .chat {
   display: flex;

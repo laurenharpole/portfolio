@@ -16,7 +16,7 @@ function CovidVis() {
         <figure>
           <iframe className="embed" src="https://laurenharpole.github.io/May-Vaccine-Progress-Vis/" sandox="" />
         </figure>
-        <p className="body-text"> An interactive client-side data visualization made using  the graphing and visualization library D3.js illustrating a breakdown in covid-19 worldwide data from May, 2021. The data comes from Johns Hopkins and the bubble radii are sized based on country population. Below is a link to a github site displaying the chart on my personal page.</p>
+        <p className="body-text"> An interactive, client-side data visualization illustating world-wide Covid-19 vaccination progress. Data comes from <em>Our World In Data</em> and radii size was determined by number of fully vaccinated individuals. Designed and developed by me, leveraging the D3.js graphing library. Click the link below to view the visualization where it's hosted on my github.</p>
         <p className="body-text"><a href="https://laurenharpole.github.io/May-Vaccine-Progress-Vis/"><LaunchButton/></a></p>
       </div>
       <Footer />

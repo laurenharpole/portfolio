@@ -1,13 +1,16 @@
 
 import './styles/footer.css';
-import heart from "./other_files/heart_front_color.png";
 import up from "./other_files/PointUpFace.png";
 import mail from "./other_files/mail-front-clay.png";
 import brief from "./other_files/travel-front-color.png";
 import pc from "./other_files/computer-front-premium.png";
 
-
 function Footer() {
+
+  function handleClick(){
+    window.scrollTo(0,0);
+  };
+
   function getDate() {
     var d = new Date();
     var date = "";
@@ -40,7 +43,7 @@ function Footer() {
       <div className="chat">
         <div className="mine messages">
           <p className="message"><img class="emoji-3d-links" src={up}></img>
-            &nbsp;<a className="back2Top" id="back2Top" title="Back to top" href="#">back up</a>
+            &nbsp;<a className="back2Top" id="back2Top" title="Back to top" onClick={handleClick}>back up</a>
           </p>
           <div className="message last">
             <ul className="f-three-column">
@@ -59,7 +62,7 @@ function Footer() {
         <div className="yours messages">
           <p class="yours-padding">
           <p className="message last">
-            Built with <img class="emoji-3d" src={heart}></img> by Lauren Harpole © 2024
+            Built entirely by Lauren Harpole © 2025
           </p>
           </p>
         </div>
