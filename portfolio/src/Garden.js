@@ -19,7 +19,7 @@ function Garden() {
         <p className="body-text">  In the spring of 2020, I built an OCaml CLI Gardening-simulation game in a team of 3.
           We implemented OCaml graphics to render visuals, and managed simulated time through state stepping functionality to
           move through plant lifetimes, harvesting, and sowing. </p>
-          <p className="body-text"><a href="https://laurenharpole.github.io/cordillera/"><CodeButton/></a></p>
+          <p className="body-text"><a href="https://github.com/laurenharpole/Gardening-Game"><CodeButton/></a></p>
       </div>
       <Footer />
     </div>
